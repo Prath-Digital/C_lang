@@ -49,3 +49,11 @@
 - Type of Operators
 - Operator Precedence
 - Type conversion
+
+## Chapter 5 - Control Structure
+
+### Lec. 5.1 [PPT](ch_5/Lec_5.1.pdf)
+
+- If Statement
+- If...else
+- Ladder
