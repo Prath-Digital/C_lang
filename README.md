@@ -57,3 +57,8 @@
 - If Statement
 - If...else
 - Ladder
+
+### Lec. 5.1 [PPT](ch_5/Lec_5.5.pdf)
+
+- Flowchart Shapes & Creation
+- Nested
