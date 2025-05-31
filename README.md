@@ -36,3 +36,12 @@
 - Creating Github account
 - Create first Github Repository
 - Push on Github
+
+## Chapter 4 - Operator & expression
+
+### Lec. 4.1 [PPT](ch_4/Lec_4.1.pdf)
+- What is Github?
+- Installation of git
+- Creating Github account
+- Create first Github Repository
+- Push on Github
