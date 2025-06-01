@@ -58,7 +58,7 @@
 - If...else
 - Ladder
 
-### Lec. 5.1 [PPT](ch_5/Lec_5.5.pdf)
+### Lec. 5.2 [PPT](ch_5/Lec_5.2.pdf)
 
 - Flowchart Shapes & Creation
 - Nested
