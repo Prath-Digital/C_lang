@@ -62,3 +62,8 @@
 
 - Flowchart Shapes & Creation
 - Nested
+
+### Lec. 5.3 [PPT](ch_5/Lec_5.3.pdf)
+
+- Ternary Operator
+- Switch Case
