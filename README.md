@@ -67,3 +67,10 @@
 
 - Ternary Operator
 - Switch Case
+
+## Chapter 6 - Loooing
+
+### Lec. 6.1 [PPT](ch_6/Lec_6.1.pdf)
+
+- Types of Loops
+- while loop
