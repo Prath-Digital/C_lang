@@ -13,7 +13,7 @@ int main()
     for (i = 1; i <= M; i++)
     {
         total = N * i;
-        printf("%d * %d = %d\n", N, i, total);
+        printf("%d x %d = %d\n", N, i, total);
     }
     
 }
