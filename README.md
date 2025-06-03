@@ -73,4 +73,15 @@
 ### Lec. 6.1 [PPT](ch_6/Lec_6.1.pdf)
 
 - Types of Loops
-- while loop
+- While Loop
+
+### Lec. 6.2 [PPT](ch_6/Lec_6.2.pdf)
+
+- Do While Loop
+- Difference between While & Do While
+- For Loop
+
+### Lec. 6.2 [PPT](ch_6/Lec_6.3.pdf)
+
+- Looping Exercises
+- Control Statements (break, continue and goto)
