@@ -85,3 +85,13 @@
 
 - Looping Exercises
 - Control Statements (break, continue and goto)
+
+## Chapter 7 - Looping with Patterns
+
+### Lec. 7.1 [PPT](ch_7/Lec_7.1.pdf)
+- Types of Patterns
+- Without Space Pattern
+
+### Lec. 7.2 [PPT](ch_7/Lec_7.2.pdf)
+- With Space Pattern
+- Custom Pattern
