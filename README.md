@@ -117,3 +117,7 @@
 - Character in detail
 - ASCII value in detail
 - String creation, display & insertion
+
+### Lec. 9.2 [PPT](ch_9/Lec_9.2.pdf)
+- NULL & '\0'
+- String built-in functions
