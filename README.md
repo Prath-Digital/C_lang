@@ -121,3 +121,10 @@
 ### Lec. 9.2 [PPT](ch_9/Lec_9.2.pdf)
 - NULL & '\0'
 - String built-in functions
+
+## Chapter 10 -User Defined Function
+
+### Lec. 10.1 [PPT](ch_10/lec_10.c/Lec_10.1.pdf)
+- Types of Functions
+- TNRN (Take Nothing, Return Nothing)
+- TSRN (Take Something, Return Nothing)
