@@ -110,3 +110,10 @@
 ### Lec. 8.3 [PPT](ch_8/Lec_8.3.pdf)
 
 - 2D Array
+
+## Chapter 9 - String in Detail
+
+### Lec. 9.1 [PPT](ch_9/Lec_9.1.pdf)
+- Character in detail
+- ASCII value in detail
+- String creation, display & insertion
