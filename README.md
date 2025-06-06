@@ -124,7 +124,7 @@
 
 ## Chapter 10 -User Defined Function
 
-### Lec. 10.1 [PPT](ch_10/lec_10.c/Lec_10.1.pdf)
+### Lec. 10.1 [PPT](ch_10/lec_10.1.c/Lec_10.1.pdf)
 - Types of Functions
 - TNRN (Take Nothing, Return Nothing)
 - TSRN (Take Something, Return Nothing)
