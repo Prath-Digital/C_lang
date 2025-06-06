@@ -81,7 +81,7 @@
 - Difference between While & Do While
 - For Loop
 
-### Lec. 6.2 [PPT](ch_6/Lec_6.3.pdf)
+### Lec. 6.3 [PPT](ch_6/Lec_6.3.pdf)
 
 - Looping Exercises
 - Control Statements (break, continue and goto)
@@ -95,3 +95,21 @@
 ### Lec. 7.2 [PPT](ch_7/Lec_7.2.pdf)
 - With Space Pattern
 - Custom Pattern
+
+## Chapter 8 - Array in Detail
+
+### Lec. 8.1 [PPT](ch_8/Lec_8.1.pdf)
+
+- Types of Array
+- 1D Array
+
+### Lec. 8.2
+
+- Do While Loop
+- Difference between While & Do While
+- For Loop
+
+### Lec. 8.3 [PPT](ch_8/Lec_8.3.pdf)
+
+- Looping Exercises
+- Control Statements (break, continue and goto)
