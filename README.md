@@ -105,11 +105,8 @@
 
 ### Lec. 8.2
 
-- Do While Loop
-- Difference between While & Do While
-- For Loop
+- 1D Array Exercises
 
 ### Lec. 8.3 [PPT](ch_8/Lec_8.3.pdf)
 
-- Looping Exercises
-- Control Statements (break, continue and goto)
+- 2D Array
