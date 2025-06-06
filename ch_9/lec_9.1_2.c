@@ -1,16 +1,25 @@
 #include <stdio.h>
-#include <string.h>
 
 int main() {
     char word[100];
 
     printf("Enter a sentence: ");
-    gets(word);
+    int index = 0;
+    char ch;
+    while ((ch = getchar()) != '\n' && ch != EOF) {
+        word[index++] = ch;
+    }
+    word[index] = '\0';
 
     char uppercase[100], lowercase[100];
     int asciiSum = 0;
 
-    for (int i = 0; i < strlen(word); i++) {
+    int length = 0;
+    while (word[length] != '\0') {
+        length++;
+    }
+
+    for (int i = 0; i < length; i++) {
         if (word[i] >= 'a' && word[i] <= 'z') {
             uppercase[i] = word[i] - 32;
             lowercase[i] = word[i];
@@ -24,21 +33,22 @@ int main() {
         asciiSum += word[i];
     }
 
-    uppercase[strlen(word)] = '\0';
-    lowercase[strlen(word)] = '\0';
+    uppercase[length] = '\0';
+    lowercase[length] = '\0';
 
-    printf("\n\n=====================================================================\n\n");
+    printf("\n\n====================================================================="
+           "\n\n");
 
     printf("Original sentence: %s\n", word);
     printf("ASCII values: ");
-    for (int i = 0; i < strlen(word); i++) {
+    for (int i = 0; i < length; i++) {
         printf("%d ", word[i]);
     }
     printf("\nTotal of ASCII values: %d\n", asciiSum);
     printf("\n");
     printf("Uppercase sentence: %s\n", uppercase);
     printf("Lowercase sentence: %s\n", lowercase);
-    printf("Size of the sentence: %zu\n", strlen(word));
+    printf("Size of the sentence: %d\n", length);
     printf("Size of the sentence in bytes: %zu\n", sizeof(word));
 
     return 0;
