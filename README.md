@@ -128,3 +128,9 @@
 - Types of Functions
 - TNRN (Take Nothing, Return Nothing)
 - TSRN (Take Something, Return Nothing)
+
+### Lec. 10.2 [PPT](ch_10/lec_10.2.c/Lec_10.2.pdf)
+- TNRS (Take Nothing, Return Something)
+- TSRN (Take Something, Return Something)
+- Nested Functions
+- Recursion
