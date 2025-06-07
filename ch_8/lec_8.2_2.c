@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-// Perform CRUD operations on 1D array
-/*
-    C - Create / Insert
-    R - Read / Retrieve / Fetch / Access
-    U - Update
-    D - Delete
-*/
-
 int main()
 {
     int size, i, max;
