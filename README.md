@@ -141,3 +141,8 @@
 - sizeof() operator & Pointer
 - Scale of Pointer
 - Pointer with Array & String
+
+### Lec. 11.2 [PPT](ch_11/lec_11.2/Lec_11.2.pdf)
+- Pointer of array
+- Chain of Pointer
+- Pointer with User Defined Function
