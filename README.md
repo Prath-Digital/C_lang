@@ -146,3 +146,10 @@
 - Pointer of array
 - Chain of Pointer
 - Pointer with User Defined Function
+
+## Chapter 11 - Structure, Union & Enumeration
+
+### Lec. 11.1 [PPT](ch_12/Lec_12.1.pdf)
+- Structure & sizeof()
+- Union
+- Enumeration
