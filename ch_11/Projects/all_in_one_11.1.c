@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <ctype.h>
 
 void swap(int *x, int *y)
 {
@@ -29,11 +27,23 @@ int getValidIntegerInput()
     while (1)
     {
         scanf("%s", buffer);
-        char *endptr;
-        value = strtol(buffer, &endptr, 10);
-
-        if (*endptr == '\0')
+        int isValid = 1;
+        for (int i = 0; buffer[i] != '\0'; i++)
         {
+            if (buffer[i] < '0' || buffer[i] > '9')
+            {
+                isValid = 0;
+                break;
+            }
+        }
+
+        if (isValid)
+        {
+            value = 0;
+            for (int i = 0; buffer[i] != '\0'; i++)
+            {
+                value = value * 10 + (buffer[i] - '0');
+            }
             return value;
         }
         else
