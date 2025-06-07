@@ -122,7 +122,7 @@
 - NULL & '\0'
 - String built-in functions
 
-## Chapter 10 -User Defined Function
+## Chapter 10 - User Defined Function
 
 ### Lec. 10.1 [PPT](ch_10/lec_10.1.c/Lec_10.1.pdf)
 - Types of Functions
@@ -134,3 +134,10 @@
 - TSRN (Take Something, Return Something)
 - Nested Functions
 - Recursion
+
+## Chapter 11 - Pointer
+
+### Lec. 11.1 [PPT](ch_11/lec_11.1/Lec_11.1.pdf)
+- sizeof() operator & Pointer
+- Scale of Pointer
+- Pointer with Array & String
