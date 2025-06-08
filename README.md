@@ -153,3 +153,9 @@
 - Structure & sizeof()
 - Union
 - Enumeration
+
+## Chapter 13 - File Handling
+### Lec. 13.1 [PPT](ch_13/Lec_13.1.pdf)
+- File opening modes
+- File reading
+- File writing
